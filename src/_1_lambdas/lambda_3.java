@@ -1,3 +1,5 @@
+package _1_lambdas;
+
 import java.io.File;
 import java.util.Arrays;
 
@@ -5,7 +7,7 @@ import java.util.Arrays;
  * @author Dmitry Adonin
  * @since 11/10/2015
  */
-public class lambda_1_3 {
+public class lambda_3 {
     public static void main(String[] args) {
 
         String rootPath = "C:\\Windows";
