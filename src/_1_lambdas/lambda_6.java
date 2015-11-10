@@ -4,7 +4,7 @@ package _1_lambdas;
  * @author Dmitry Adonin
  * @since 11/10/2015
  */
-public class lambda_5 {
+public class lambda_6 {
     public static void main(String[] args) {
         //non-lambda style
         /*new Thread(uncheck(
