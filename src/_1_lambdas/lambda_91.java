@@ -4,7 +4,7 @@ package _1_lambdas;
  * @author Dmitry Adonin
  * @since 11/10/2015
  */
-public class lambda_9 {
+public class lambda_91 {
     public static void main(String[] args) {
         new Thread(andThen(() -> {
             System.out.println("I'm R1");

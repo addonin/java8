@@ -6,7 +6,7 @@ import java.util.Arrays;
 /**
  * Created by Dmytro_Adonin on 11/9/2015.
  */
-public class lambda_2 {
+public class lambda_21 {
 
     public static void main(String[] args) {
         String path = "C:\\"; //should be replaced with arg

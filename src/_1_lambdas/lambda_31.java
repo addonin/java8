@@ -7,7 +7,7 @@ import java.util.Arrays;
  * @author Dmitry Adonin
  * @since 11/10/2015
  */
-public class lambda_3 {
+public class lambda_31 {
     public static void main(String[] args) {
 
         String rootPath = "C:\\Windows";

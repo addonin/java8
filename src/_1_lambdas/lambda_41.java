@@ -7,7 +7,7 @@ import java.util.Arrays;
  * @author Dmitry Adonin
  * @since 11/10/2015
  */
-public class lambda_4 {
+public class lambda_41 {
     public static void main(String[] args) {
         String path = "C:\\Windows";
         File root = new File(path);
