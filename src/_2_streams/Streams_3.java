@@ -1,4 +1,4 @@
-package _2_iostreams;
+package _2_streams;
 
 import java.io.IOException;
 import java.nio.file.Files;
@@ -10,7 +10,7 @@ import java.util.List;
  * @author Dmitry Adonin
  * @since 11/11/2015
  */
-public class IOStreams_3 {
+public class Streams_3 {
     public static void main(String[] args) throws IOException {
 
         String book = new String(

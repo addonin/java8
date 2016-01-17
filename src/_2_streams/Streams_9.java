@@ -1,4 +1,4 @@
-package _2_iostreams;
+package _2_streams;
 
 import java.util.ArrayList;
 import java.util.stream.Stream;
@@ -7,7 +7,7 @@ import java.util.stream.Stream;
  * @author Dmitry Adonin
  * @since 11/11/2015
  */
-public class IOStreams_9 {
+public class Streams_9 {
     public static void main(String[] args) {
 
         // 1

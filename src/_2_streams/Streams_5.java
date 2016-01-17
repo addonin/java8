@@ -1,4 +1,4 @@
-package _2_iostreams;
+package _2_streams;
 
 import java.util.Iterator;
 import java.util.stream.Stream;
@@ -7,7 +7,7 @@ import java.util.stream.Stream;
  * @author Dmitry Adonin
  * @since 11/11/2015
  */
-public class IOStreams_5 {
+public class Streams_5 {
     public static void main(String[] args) {
         //simple random value generator
         Stream<Double> stream = Stream.generate(Math::random);

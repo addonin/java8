@@ -1,4 +1,4 @@
-package _2_iostreams;
+package _2_streams;
 
 import java.util.ArrayList;
 import java.util.Arrays;
@@ -10,7 +10,7 @@ import java.util.stream.IntStream;
  * @author Dmitry Adonin
  * @since 11/12/2015
  */
-public class IOStreams_11 {
+public class Streams_11 {
     public static void main(String[] args) {
 
         List<ArrayList<String>> in = new ArrayList<>();

@@ -1,4 +1,4 @@
-package _2_iostreams;
+package _2_streams;
 
 import java.util.Iterator;
 import java.util.stream.Stream;
@@ -7,7 +7,7 @@ import java.util.stream.Stream;
  * @author Dmitry Adonin
  * @since 11/11/2015
  */
-public class IOStreams_8 {
+public class Streams_8 {
     public static void main(String[] args) {
         //Stream.of("1","1","1","2").distinct().forEach(System.out::println);
         Stream<String> out = zip(Stream.of("1","1","1","2"), Stream.of("1","1","1","2", "3"));

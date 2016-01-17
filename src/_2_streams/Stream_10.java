@@ -1,4 +1,4 @@
-package _2_iostreams;
+package _2_streams;
 
 import java.util.stream.Stream;
 
@@ -6,7 +6,7 @@ import java.util.stream.Stream;
  * @author Dmitry Adonin
  * @since 11/12/2015
  */
-public class IOStream_10 {
+public class Stream_10 {
     public static void main(String[] args) {
 
         Stream<Double> stream = Stream.of(1D, 2D, 3D);
